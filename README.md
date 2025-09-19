@@ -20,3 +20,4 @@ https://developer.spotify.com/documentation/web-api/reference/get-list-users-pla
 	Featured Endpoints:
 https://developer.spotify.com/documentation/web-api/reference/upload-custom-playlist-cover
 https://platform.openai.com/docs/api-reference/images/create
+# Tip-Calculator
